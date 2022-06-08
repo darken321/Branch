@@ -1,0 +1,9 @@
+ID:b1
+Summary: No scroll bar on the right side of the site
+Priority: High
+Severity: minor
+Steps to reproduse: Open any page of the site
+Expected Result: Scroll bar on the right side of the site
+Actual Result: No scroll bar on the right side of the site
+
+
